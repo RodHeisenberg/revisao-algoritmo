@@ -22,3 +22,25 @@ São **40 desafios em 10 missões**, misturando múltipla escolha, associação,
 Abra `index.html` em um navegador moderno. Não precisa instalar Node.js, Python, npm nem qualquer pacote.
 
 Desenvolvido como material didático para a Aula de Lógica de Programação.
+
+## GITHUB / REPO dos ALUNOS
+
+https://github.com/LitleDav
+https://github.com/joaopedro-devbr
+https://github.com/guilbertcesar64
+https://github.com/gabrielperei9
+https://github.com/joao-vitor07/meu-primeiro-REPO/tree/main
+https://github.com/ericanet32-lang/meu-primeiro-REPO/blob/main/README.md
+https://github.com/LuisF2009-web/Meu-primeiro-REPO
+https://github.com/Guiteixeira7547/revisao-algoritmo/blob/main/README.md
+https://github.com/Natanielly-26/meu-primeiro-REPO/blob/main/README.md?plain=1
+https://github.com/ArthurAlvesLisboa
+https://github.com/NicxSS105
+https://github.com/ThAlexandrino
+https://github.com/Guiteixeira7547
+https://github.com/samuelbento7/meu-primeiro-REPO
+https://github.com/jpjoao9633-cmd
+
+
+
+
